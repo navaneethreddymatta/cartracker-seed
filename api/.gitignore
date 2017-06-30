@@ -1,5 +1,4 @@
-
-.idea/
+.idea
+target
 cartracker.iml
 pom.xml
-/target
